@@ -14,3 +14,8 @@ APICSS is more style guide than rigid framework. There is no library within here
 ## License
 
 Under MIT License.
+
+## Inspired by
+
+* OOCSS
+* SMACSS
