@@ -1,5 +1,26 @@
 // Tiny classes
 
+.boxsizing
+
+	&-borderbox
+		box-sizing: border-box
+
+	&-contentbox
+		box-sizing: content-box
+
+.color
+
+	&-white
+		color: $white
+	
+	&-black
+		color: $black
+
+.display
+
+	&-none
+		display: none !important
+
 .font
 
 	&-sansserif
@@ -11,15 +32,45 @@
 	&-monospace
 		font-family: $monospace
 
-.color
+	&-bold
+		font-weight: bold
 
-	&-white
-		color: $white
-	
-	&-black
-		color: $black
+.lineheight
+
+	&-1
+		line-height: 1
 
 .overflow
 
 	&-hidden
 		overflow: hidden
+
+	&-xhidden
+		overflow-x: hidden
+
+	&-yhidden
+		overflow-y: hidden
+
+.tablelayout
+
+	&-auto
+		table-layout: auto
+
+	&-fixed
+		table-layout: fixed
+
+.text
+
+	&-left
+		text-align: left
+		
+	&-center
+		text-align: center
+		
+	&-right
+		text-align: right
+
+.width
+
+	&-100per
+		width: 100%
