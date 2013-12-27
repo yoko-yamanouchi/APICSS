@@ -11,6 +11,11 @@ APICSS is more style guide than rigid framework. There is no library within here
 * [English](http://www.slideshare.net/BYODKM/stop-css-apicss-29474289)
 * [Japanese](http://www.slideshare.net/BYODKM/stop-css-apicss)
 
+## Pros and Cons
+
+* Pro: Incredible reduced frequency of writing CSS.
+* Con: Against traditional naming convention.
+
 ## License
 
 Under MIT License.
