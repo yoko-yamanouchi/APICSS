@@ -27,4 +27,4 @@ Under MIT License.
 
 ## Official Site
 
-* [BYODKM](https://byodkm.com/apicss) *Not ready yet. Sorry.*
+* [BYODKM](https://byodkm.com/apicss) *(Not ready yet)*
