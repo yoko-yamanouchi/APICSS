@@ -11,6 +11,10 @@ APICSS is more style guide than rigid framework. There is no library within here
 * [English](http://www.slideshare.net/BYODKM/stop-css-apicss-29474289)
 * [Japanese](http://www.slideshare.net/BYODKM/stop-css-apicss)
 
+## Starter Kit
+
+* [Download Zip](https://github.com/BYODKM/APICSS/archive/master.zip) (SASS 3.3 required)
+
 ## Pros &amp; Cons
 
 * **Pro:** Dramatically reduced the frequency of touching CSS.
