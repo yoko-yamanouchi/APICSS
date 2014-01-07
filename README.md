@@ -29,6 +29,7 @@ Under MIT License.
 * [OOCSS](http://oocss.org)
 * [SMACSS](http://smacss.com)
 
-## Official Site
+## Resources
 
-* [BYODKM](https://byodkm.com/apicss) *(Not ready yet)*
+* [What is the APICSS? - BYODKM CSS Programming Lab](https://byodkm.com/docs/20140107/what-is-the-apicss/)
+* [APICSSって何？ - BYODKM CSS Programming Lab（日本語版）](https://byodkm.com/jp/docs/20140107/what-is-the-apicss/)
