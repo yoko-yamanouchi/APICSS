@@ -13,7 +13,7 @@ APICSS is more style guide than rigid framework. There is no library within here
 
 ## Starter Kit
 
-* [Download Zip](https://github.com/BYODKM/APICSS/archive/master.zip) (SASS 3.3 required)
+* [Download Zip](https://github.com/BYODKM/APICSS/archive/master.zip) (Required SASS 3.3)
 
 ## Pros &amp; Cons
 
