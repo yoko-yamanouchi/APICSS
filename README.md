@@ -18,7 +18,7 @@ APICSS is more style guide than rigid framework. There is no library within here
 ## Pros &amp; Cons
 
 * **Pro:** Dramatically reduced the frequency of touching CSS.
-* **Con:** Against traditional naming convention.
+* **Con:** Against the traditional naming convention.
 
 ## License
 
