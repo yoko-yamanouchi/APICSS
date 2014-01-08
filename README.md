@@ -17,7 +17,7 @@ APICSS (pronounced apix) is a new CSS method (not a framework) we introduced on 
 
 ## Pros &amp; Cons
 
-* **Pro:** Dramatically reduced the frequency of touching CSS.
+* **Pro:** Dramatically reduces the frequency of touching CSS.
 * **Con:** Against the traditional naming convention.
 
 ## License
