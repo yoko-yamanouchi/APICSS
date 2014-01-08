@@ -4,7 +4,7 @@ Use CSS as API that rarely modiﬁed.
 
 ## What is it?
 
-APICSS (pronounced apix) is a new CSS method (not a framework) we introduced on SlideShare.com recently. It's very easy concept to understand. But, because of against the traditional naming convention, some people might be difficult to adapt it.
+APICSS (pronounced apix) is a new CSS method (not a framework) we introduced on SlideShare recently. It's very easy concept to understand. But, because of against the traditional naming convention, some people might be difficult to adapt it.
 
 ## Qucik Tour
 
