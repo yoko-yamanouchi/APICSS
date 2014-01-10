@@ -41,7 +41,7 @@
 * [Japanese](http://www.slideshare.net/BYODKM/stop-css-apicss)
 
 
-## Resources
+## Other Resources
 
 * [What is the APICSS?](https://byodkm.com/docs/20140107/what-is-the-apicss/)
 * [APICSSって何？](https://byodkm.com/jp/docs/20140107/what-is-the-apicss/)
