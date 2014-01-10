@@ -50,10 +50,3 @@
 ## License
 
 Under MIT License.
-
-
-## Author
-
-Tomohiro Kasuga<br>
-[Twitter](http://twitter.com/tomohiro_kasuga)<br>
-tk@byodkm.com
