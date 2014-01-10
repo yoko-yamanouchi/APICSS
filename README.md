@@ -32,20 +32,21 @@
 ## How?
 
 1. Use 11 SASS files for OOCSS happen in real.
-2. Adopt new naming convention like SMACSS.
-3. That's it.
+2. Adopt new naming convention.
+3. Related classes must have same preﬁx like SMACSS for easy organizing.
+4. Do implement design elements separately for you can pull those separately.
+5. Avoid using background image as possible.
 
 
-## Qucik Tour
+## Resources
 
-* [English](http://www.slideshare.net/BYODKM/stop-css-apicss-29474289)
-* [Japanese](http://www.slideshare.net/BYODKM/stop-css-apicss)
+English
+* [Stop CSS - APICSS](http://www.slideshare.net/BYODKM/stop-css-apicss-29474289) on SlideShare
+* [What is the APICSS?](https://byodkm.com/docs/20140107/what-is-the-apicss/) on Blog
 
-
-## Other Resources
-
-* [What is the APICSS?](https://byodkm.com/docs/20140107/what-is-the-apicss/)
-* [APICSSって何？](https://byodkm.com/jp/docs/20140107/what-is-the-apicss/)
+Japanese
+* [STOP CSS - APICSS](http://www.slideshare.net/BYODKM/stop-css-apicss) on SlideShare
+* [APICSSって何？](https://byodkm.com/jp/docs/20140107/what-is-the-apicss/) on Blog
 
 
 ## License
