@@ -1,35 +1,59 @@
-# APICSS
+# APICSS - "CSS meets API"
 
-Use CSS as API that rarely modiﬁed.
 
-## What is it?
+## This is ...
 
-APICSS (pronounced apix) is a new CSS method (not a framework) we introduced on SlideShare recently. It's very easy concept to understand. But, because of against the traditional naming convention, some people might be difficult to adapt it.
+(x) CSS Framework<br>
+(x) Preprocessor<br>
+(o) CSS Methor
 
-## Qucik Tour
-
-* [English](http://www.slideshare.net/BYODKM/stop-css-apicss-29474289)
-* [Japanese](http://www.slideshare.net/BYODKM/stop-css-apicss)
-
-## Starter Kit
-
-* [Download Zip](https://github.com/BYODKM/APICSS/archive/master.zip) (Required SASS 3.3)
-
-## Pros &amp; Cons
-
-* **Pro:** Dramatically reduces the frequency of touching CSS.
-* **Con:** Against the traditional naming convention.
-
-## License
-
-Under MIT License.
 
 ## Inspired by
 
 * [OOCSS](http://oocss.org)
 * [SMACSS](http://smacss.com)
 
+
+## TLDR
+
+"Use CSS as API that rarely modiﬁed."
+
+"It gives dramatically less use of CSS."
+
+"Give it a try! You can't go back where we were."
+
+
+## You'll get what?
+
+- Released from CSS hell.
+
+
+## How?
+
+1. Use 11 SASS files for OOCSS happen in real.
+2. Adopt new naming convention like SMACSS.
+3. That's it.
+
+
+## Qucik Tour
+
+* [English](http://www.slideshare.net/BYODKM/stop-css-apicss-29474289)
+* [Japanese](http://www.slideshare.net/BYODKM/stop-css-apicss)
+
+
 ## Resources
 
-* [What is the APICSS? - BYODKM CSS Programming Lab](https://byodkm.com/docs/20140107/what-is-the-apicss/)
-* [APICSSって何？ - BYODKM CSS Programming Lab（日本語版）](https://byodkm.com/jp/docs/20140107/what-is-the-apicss/)
+* [What is the APICSS?](https://byodkm.com/docs/20140107/what-is-the-apicss/)
+* [APICSSって何？](https://byodkm.com/jp/docs/20140107/what-is-the-apicss/)
+
+
+## License
+
+Under MIT License.
+
+
+## Author
+
+Tomohiro Kasuga<br>
+[Twitter](http://twitter.com/tomohiro_kasuga)<br>
+tk@byodkm.com
