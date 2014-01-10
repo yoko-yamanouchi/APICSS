@@ -1,5 +1,6 @@
-# APICSS - "CSS meets API"
+# APICSS
 
+"CSS meets API"
 
 ## This is ...
 
