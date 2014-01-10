@@ -37,6 +37,7 @@
 4. Do implement design elements separately for you can pull those separately.
 5. Avoid using background image as possible.
 
+That's it.
 
 ## Resources
 
