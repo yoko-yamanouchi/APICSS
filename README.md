@@ -31,6 +31,8 @@
 
 ## How?
 
+### 5 Principals
+
 1. Use 11 CSS files for OOCSS happen in real.
 2. Adopt new naming convention.
 3. Related classes must have same preﬁx like SMACSS for easy organizing.
