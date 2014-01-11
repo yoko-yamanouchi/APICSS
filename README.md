@@ -44,13 +44,13 @@ That's it.
 
 ## Naming convention
 
-### Traditional approach
+**Traditional approach**
 
-"Class name should contain a semantic phrase to prepare for changing the style in the future."
+- "Class name should contain a semantic phrase to prepare for changing the style in the future."
 
-### New approach
+**New approach**
 
-"Class name should be based on their own properties prepare for using whatever purpose in the future."
+- "Class name should be based on their own properties prepare for using whatever purpose in the future."
 
 
 ## Resources
