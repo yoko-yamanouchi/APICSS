@@ -59,11 +59,11 @@ That's it.
 
 English
 * [Stop CSS - APICSS](http://www.slideshare.net/BYODKM/stop-css-apicss-29474289) on SlideShare
-* [What is the APICSS?](https://byodkm.com/docs/20140107/what-is-the-apicss/) on Blog
+* [What is the APICSS?](https://byodkm.com/docs/20140107/what-is-the-apicss/) on CSS Programming Lab
 
 日本語
 * [STOP CSS - APICSS](http://www.slideshare.net/BYODKM/stop-css-apicss) on SlideShare
-* [APICSSって何？](https://byodkm.com/jp/docs/20140107/what-is-the-apicss/) on Blog
+* [APICSSって何？](https://byodkm.com/jp/docs/20140107/what-is-the-apicss/) on CSS Programming Lab
 
 
 ## License
