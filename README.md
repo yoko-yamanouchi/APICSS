@@ -36,7 +36,7 @@
 1. Use 11 CSS files for OOCSS happen in real.
 2. Adopt new naming convention.
 3. Related classes must have same preﬁx like SMACSS for easy organizing.
-4. Do implement design elements separately for you can pull those separately.
+4. Implement design elements separately for you can pull those separately.
 5. Avoid using background image as possible.
 
 That's it.
