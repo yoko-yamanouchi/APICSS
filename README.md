@@ -6,7 +6,7 @@
 
 (x) CSS Framework<br>
 (x) Preprocessor<br>
-(o) CSS Methor
+(o) CSS Method
 
 
 ## Inspired by
