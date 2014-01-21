@@ -21,7 +21,7 @@
 
 "It gives dramatically less use of CSS."
 
-"Give it a try! You can't go back where we were."
+"Give it a try! You can't go back to the way it used to be."
 
 
 ## You'll get what?
