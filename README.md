@@ -27,6 +27,8 @@
 ## You'll get what?
 
 - Released from CSS hell.
+- D.R.Y.
+- Open/Closed Principle
 
 
 ## How?
