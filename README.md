@@ -52,7 +52,7 @@ That's it.
 
 **New approach**
 
-- "Class name should be based on their own properties prepare for using whatever purpose in the future."
+- "Class name should be based on their own properties to prepare for using whatever purpose in the future."
 
 
 ## Resources
