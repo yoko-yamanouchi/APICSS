@@ -1,4 +1,4 @@
-// Mini Reset here
+// MINI RESET HERE
 
 html,
 body
@@ -9,6 +9,7 @@ html
 
 img
 	max-width 100%
+	height auto
 
 table
 	width 100%
@@ -18,9 +19,18 @@ tbody,
 tfoot
 	vertical-align inherit
 
-th,
-td
-	padding 0
+a
+	&:link
+		color $link
+
+	&:visited
+		color $visited
+
+	&:hover
+		color $hover
+
+	&:active
+		color $active
 
 li
 	display block
