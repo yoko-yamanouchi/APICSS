@@ -137,10 +137,6 @@ html .lineheight-narrow {
 html .lineheight-wide {
   line-height: 1.6em;
 }
-html .lineheight-bottom {
-  line-height: 1;
-  vertical-align: bottom;
-}
 .box-example {
   display: block;
 }
