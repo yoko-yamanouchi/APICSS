@@ -6,6 +6,9 @@ body {
 html {
   min-width: 320px;
 }
+body {
+  word-wrap: break-word;
+}
 img {
   max-width: 100%;
   height: auto;
@@ -29,6 +32,29 @@ label {
 }
 abbr {
   cursor: help;
+}
+.block-link {
+  display: block;
+}
+.block-image {
+  display: block;
+}
+.box-foo {
+  display: block;
+}
+.list-bar li {
+  display: block;
+}
+.row {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  overflow-x: hidden;
+}
+.row > li,
+.row > .row-cell {
+  display: table-cell;
+  vertical-align: top;
 }
 html .color-inherit {
   color: inherit;
@@ -136,23 +162,6 @@ html .lineheight-narrow {
 }
 html .lineheight-wide {
   line-height: 1.6em;
-}
-.box-example {
-  display: block;
-}
-.list-example li {
-  display: block;
-}
-.row {
-  display: table;
-  table-layout: fixed;
-  width: 100%;
-  overflow-x: hidden;
-}
-.row > li,
-.row-cell {
-  display: table-cell;
-  vertical-align: top;
 }
 html .box-borderbox {
   -webkit-box-sizing: border-box;
