@@ -57,191 +57,191 @@ abbr {
   display: table-cell;
   vertical-align: top;
 }
-html .color-inherit {
+:root .color-inherit {
   color: inherit;
 }
-html .color-black {
+:root .color-black {
   color: #111;
 }
-html .color-blackbold {
+:root .color-blackbold {
   color: #111;
   font-weight: bold;
 }
-html .color-blue {
+:root .color-blue {
   color: #0074d9;
 }
-html .color-bluebold {
+:root .color-bluebold {
   color: #0074d9;
   font-weight: bold;
 }
-html .color-gray {
+:root .color-gray {
   color: #aaa;
 }
-html .color-graybold {
+:root .color-graybold {
   color: #aaa;
   font-weight: bold;
 }
-html .color-green {
+:root .color-green {
   color: #2ecc40;
 }
-html .color-greenbold {
+:root .color-greenbold {
   color: #2ecc40;
   font-weight: bold;
 }
-html .color-orange {
+:root .color-orange {
   color: #ff851b;
 }
-html .color-orangebold {
+:root .color-orangebold {
   color: #ff851b;
   font-weight: bold;
 }
-html .color-red {
+:root .color-red {
   color: #ff4136;
 }
-html .color-redbold {
+:root .color-redbold {
   color: #ff4136;
   font-weight: bold;
 }
-html .color-white {
+:root .color-white {
   color: #fff;
 }
-html .color-whitebold {
+:root .color-whitebold {
   color: #fff;
   font-weight: bold;
 }
-html .color-yellow {
+:root .color-yellow {
   color: #ffdc00;
 }
-html .color-yellowbold {
+:root .color-yellowbold {
   color: #ffdc00;
   font-weight: bold;
 }
-html .font-sansserif {
+:root .font-sansserif {
   font-family: Arial, sans-serif;
 }
-html .font-serif {
+:root .font-serif {
   font-family: Georgia, serif;
 }
-html .font-monospace {
+:root .font-monospace {
   font-family: Monaco, monospace;
 }
-html .font-bold {
+:root .font-bold {
   font-weight: bold;
 }
-html .font-italic {
+:root .font-italic {
   font-style: italic;
 }
-html .font-80per {
+:root .font-80per {
   font-size: 0.8em;
 }
-html .font-120per {
+:root .font-120per {
   font-size: 1.2em;
 }
-html .text-left {
+:root .text-left {
   text-align: left;
 }
-html .text-center {
+:root .text-center {
   text-align: center;
 }
-html .text-right {
+:root .text-right {
   text-align: right;
 }
-html .text-underline {
+:root .text-underline {
   text-decoration: underline;
 }
-html .vertical-top {
+:root .vertical-top {
   vertical-align: top;
 }
-html .vertical-middle {
+:root .vertical-middle {
   vertical-align: middle;
 }
-html .vertical-bottom {
+:root .vertical-bottom {
   vertical-align: bottom;
 }
-html .lineheight-narrow {
+:root .lineheight-narrow {
   line-height: 1;
 }
-html .lineheight-wide {
+:root .lineheight-wide {
   line-height: 1.6em;
 }
-html .box-borderbox {
+:root .box-borderbox {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-html .box-contentbox {
+:root .box-contentbox {
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
   box-sizing: content-box;
 }
-html .cursor-default {
+:root .cursor-default {
   cursor: default;
 }
-html .cursor-pointer {
+:root .cursor-pointer {
   cursor: pointer;
 }
-html .cursor-help {
+:root .cursor-help {
   cursor: help;
 }
-html .cursor-left {
+:root .cursor-left {
   cursor: w-resize;
 }
-html .cursor-right {
+:root .cursor-right {
   cursor: e-resize;
 }
-html .cursor-deny {
+:root .cursor-deny {
   cursor: not-allowed;
 }
-html .display-none {
+:root .display-none {
   display: none !important;
 }
-html .display-block {
+:root .display-block {
   display: block;
 }
-html .list-none {
+:root .list-none {
   list-style-type: none;
 }
-html .list-disc {
+:root .list-disc {
   list-style-type: disc;
 }
-html .list-circle {
+:root .list-circle {
   list-style-type: circle;
 }
-html .list-square {
+:root .list-square {
   list-style-type: square;
 }
-html .list-decimal {
+:root .list-decimal {
   list-style-type: decimal;
 }
-html .margin-auto {
+:root .margin-auto {
   margin-left: auto;
   margin-right: auto;
 }
-html .margin0auto {
+:root .margin0auto {
   margin: 0 auto;
 }
-html .margin-tb10px {
+:root .margin-tb10px {
   margin-top: 10px;
   margin-bottom: 10px;
 }
-html .margin-tb1em {
+:root .margin-tb1em {
   margin-top: 1em;
   margin-bottom: 1em;
 }
-html .padding-10px {
+:root .padding-10px {
   padding: 10px;
 }
-html .padding-tb10px {
+:root .padding-tb10px {
   padding-top: 10px;
   padding-bottom: 10px;
 }
-html .padding-lr10px {
+:root .padding-lr10px {
   padding-left: 10px;
   padding-right: 10px;
 }
-html .table-fixed {
+:root .table-fixed {
   table-layout: fixed;
 }
-html .table-auto {
+:root .table-auto {
   table-layout: auto;
 }
