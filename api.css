@@ -34,18 +34,6 @@ label {
 abbr {
   cursor: help;
 }
-.block-link {
-  display: block;
-}
-.block-image {
-  display: block;
-}
-.box-foo {
-  display: block;
-}
-.list-bar li {
-  display: block;
-}
 .row {
   display: table;
   table-layout: fixed;
@@ -56,6 +44,18 @@ abbr {
 .row > .row-cell {
   display: table-cell;
   vertical-align: top;
+}
+.box-foo {
+  display: block;
+}
+.list-bar > li {
+  display: block;
+}
+.block-link {
+  display: block;
+}
+.block-image {
+  display: block;
 }
 :root .color-inherit {
   color: inherit;
@@ -131,10 +131,10 @@ abbr {
 :root .font-italic {
   font-style: italic;
 }
-:root .font-80per {
+:root .font-small {
   font-size: 0.8em;
 }
-:root .font-120per {
+:root .font-large {
   font-size: 1.2em;
 }
 :root .text-left {
@@ -193,24 +193,24 @@ abbr {
   cursor: not-allowed;
 }
 :root .display-none {
-  display: none !important;
+  display: none;
 }
 :root .display-block {
   display: block;
 }
-:root .list-none {
+:root .liststyle-none {
   list-style-type: none;
 }
-:root .list-disc {
+:root .liststyle-disc {
   list-style-type: disc;
 }
-:root .list-circle {
+:root .liststyle-circle {
   list-style-type: circle;
 }
-:root .list-square {
+:root .liststyle-square {
   list-style-type: square;
 }
-:root .list-decimal {
+:root .liststyle-decimal {
   list-style-type: decimal;
 }
 :root .margin-auto {
