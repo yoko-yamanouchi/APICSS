@@ -48,7 +48,7 @@ That's it.
 
 **Traditional approach**
 
-- "Class name should contain a semantic phrase to prepare for changing the style in the future."
+- "Class name should be a semantic phrase to prepare for changing the style in the future."
 
 **New approach**
 
