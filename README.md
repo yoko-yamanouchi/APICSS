@@ -24,14 +24,14 @@
 "Give it a try! You can't go back to the way it used to be."
 
 
-## You'll get what?
+## You'll get...
 
 - Released from CSS hell.
 - D.R.Y.
 - Open/Closed Principle
 
 
-## How?
+## How it works?
 
 ### 5 Principals
 
@@ -44,7 +44,7 @@
 That's it.
 
 
-## Naming convention
+## New naming convention
 
 **Traditional approach**
 
