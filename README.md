@@ -1,12 +1,15 @@
-# APICSS
+# APICSS <small></small>
 
-"CSS meets API"
+CSS meets API
+
+__This repository is DEPRECATED.
+New reference is [HERE](https://github.com/BYODKM/3000/blob/master/src/assets/styles/main.styl).__
 
 ## This is ...
 
-(x) CSS Framework<br>
-(x) Preprocessor<br>
-(o) CSS Method
+( - ) CSS Framework<br>
+( - ) Preprocessor<br>
+( v ) CSS Method
 
 
 ## Inspired by
@@ -15,7 +18,7 @@
 * [SMACSS](http://smacss.com)
 
 
-## TLDR
+## TL;DR
 
 "Use CSS as API that rarely modiﬁed."
 
@@ -24,10 +27,10 @@
 "Give it a try! You can't go back to the way it used to be."
 
 
-## You'll get...
+## You'll get ...
 
 - Released from CSS hell.
-- D.R.Y.
+- D.R.Y. CSS
 - Open/Closed Principle
 
 
@@ -46,13 +49,13 @@ That's it.
 
 ## New naming convention
 
-**Traditional approach**
+### Traditional approach
 
-- "Class name should be a semantic phrase to prepare for changing the style in the future."
+> Class name should be a semantic phrase to prepare for changing the style in the future.
 
-**New approach**
+### New one
 
-- "Class name should be based on their own properties to prepare for using whatever purpose in the future."
+> Class name should be based on their own properties to prepare for using whatever purpose in the future.
 
 
 ## Resources
@@ -68,4 +71,4 @@ English
 
 ## License
 
-Under MIT License.
+MIT
